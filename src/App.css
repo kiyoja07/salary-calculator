@@ -1,7 +1,13 @@
+@charset "utf-8";
+
 .header {
   background: black;
   color: aqua;
   font-size: 24px;
   padding: 1rem;
   font-weight: 600;
+}
+
+.subHeader {
+
 }
